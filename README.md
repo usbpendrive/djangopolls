@@ -1,0 +1,2 @@
+# djangopolls
+Django Polls Application
